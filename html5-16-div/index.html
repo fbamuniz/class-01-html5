@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programação Web</title>
+</head>
+<style>
+	body{
+	width: 100%;
+	height: 100%;
+
+}
+.wrapper{
+	width: 100%;
+	height: 100%;
+	/*background-color: #ee954c;*/
+	left: 0;	
+	top: 0;
+	position: absolute;
+}
+
+.cinza{
+	width: 100%;
+	height: 15%;
+	background-color: #c0c0c0;
+	position: relative;
+	left: 0;
+	top: 0;
+}
+
+.amarela{
+	width: 10%;
+	height: 100%;
+	background-color: #ddff61;
+	position: relative;
+	left: 0;
+	top: 0;
+}
+
+.azul{
+	width: 10%;
+	height: 80%;
+	background-color: #184ee0;
+	position: relative;
+	left: 0;
+	top: 0;
+}
+
+.verde{
+	width: 90%;
+	height: 80%;
+	background-color: #65da74;
+	position: absolute;
+	right: 0;
+	top: 15%;
+}
+
+.vermelha{
+	width: 100%;	
+	height: 5%;
+	background-color: #ff0000;
+	position: absolute;
+	left: 0;
+	bottom:0;
+	text-align: center;
+}
+
+.img-logo {
+	max-height:50px;
+	width: auto;
+	height: auto;
+}
+
+.p-centraliza {
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%) 
+}
+
+.ul-menu {
+	list-style-type: square;
+	text-decoration: none;
+	position: absolute;
+}
+</style>
+<body>
+	<div class='wrapper'>
+		<div class='cinza'>
+			<div class="amarela">
+				<p class="p-centraliza">Logo</p>
+			</div>
+		</div>
+		<div class='azul'>
+			<ul class="ul-menu">
+				<li><a href="#">Link 1</a></li>
+					<ul>
+						<li><a href="#">Link 2</a></li>
+					</ul>
+				<li><a href="#">Link 3</a></li>
+				<li><a href="#">Link 4</a></li>
+				<li><a href="#">Link 5</a></li>
+			</ul>
+		</div>
+		<div class='verde'>
+			<p class="p-centraliza">Texto</p>
+		</div>
+		<div class='vermelha'>
+			<p class="p-centraliza">Conteúdo do rodapé</p>
+		</div>	
+	</div>
+</body>
+</html>

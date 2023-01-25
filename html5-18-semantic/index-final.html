@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programação Web</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            font-family: 'Segoe UI';        
+          }
+          nav {
+            margin-top: 0px;
+            color: #f3f3f3;
+            text-decoration: none;
+            position: fixed;
+            width: 100%;
+            height: 50px;
+            background-color: #000000;
+            opacity: 80%;
+            display: flex; 
+            align-items: center;
+            justify-content: right;
+            z-index: 1;
+          }
+          .navMenu{
+            color:#ffffff;
+          }
+
+          .banner{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: url("https://picsum.photos/id/606/1920/650?blur=2");
+            position: relative;
+            width: 100%;
+            height: 650px;
+          }
+          
+          .highlight-text{
+            font-size: 75px;
+            color: #ffffff;
+            text-shadow:1px 1px 1px #000000
+          }
+
+          .section-1{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: auto;
+            width: 1400px;
+            height: 400px;
+            background-color: #ffffff;
+          }
+
+          .img-highlight{
+            float: left;
+            border: 1px solid #f3f3f3;
+            border-radius: 10px;
+            margin-right: 20px;
+          }
+        
+          .img-others{
+            float: left;
+            border: 1px solid #f3f3f3;
+            border-radius: 50%;
+            margin-right: 20px;
+          }
+        
+          .a-link{
+            color: #000000;
+            text-decoration:none;
+          }
+        
+          .div-3-left{
+            width: 650px;
+            height: 350px;
+          }
+        
+          .div-3-right{
+            width: 650px;
+            height: 350px;
+          }
+        
+          .others{
+            float: left;
+            padding: 10px;
+           }
+
+          .section-2{
+            width: 100%;
+            height: 500px;
+            background-color: #f3f3f3;
+          }
+
+          .section-3{
+            margin: auto;
+            width: 100%;
+            height: 800px;
+            background-image: radial-gradient(#ffffff,#c0c0c0);
+          }
+
+          .section-3-aside-l{
+            display: inline-flex;
+            width: 300px;
+            height: 800px;
+            background-color: #ff0000;
+            background: url("https://picsum.photos/id/816/300/800?grayscale");
+
+          }
+
+          .section-3-article-m{
+            display: inline-flex;
+            width: 1290px;
+            height: 800px;
+            background-color: #ffffff;
+
+          }
+
+          .section-3-aside-r{
+            display: inline-flex;
+            width: 300px;
+            height: 800px;
+            background-color: #4548e2;
+            background: url("https://picsum.photos/id/817/300/800?grayscale");
+
+          }
+
+          .footer{
+            display: flex;
+            align-items:center;
+            justify-content: center;
+            width: 100%;
+            height: 250px;
+            background-color: #000000;
+            color: #ffffff;
+          }    
+        
+    </style>
+</head>
+<body>    
+    <header>
+        <hgroup>
+            <nav>
+                <a class="navMenu" href="#">HTML</a> |
+                <a class="navMenu" href="#">CSS</a> |
+                <a class="navMenu" href="#">Bootstrap</a> |
+                <a class="navMenu" href="#">Javascript</a> |
+                <a class="navMenu" href="#">JQuery</a> 
+            </nav>
+        </hgroup>
+        <hgroup class="banner">
+            <p class="highlight-text">Reprehenderit quod debitis</p>
+        </hgroup>
+    </header>
+    <main>
+        <section class="section-1">
+            <article class="div-3-left">
+                <header>
+                    <h1>Lorem ipsum dolor sit amet consectetur.</h1>
+                </header>
+                <section>
+                    <img src="https://picsum.photos/id/816/350/200" class="img-highlight">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, necessitatibus! Pariatur omnis similique alias placeat asperiores quae dignissimos optio, ea ab, voluptatibus minus impedit ipsum perspiciatis ipsa iure maiores consectetur.</p>
+                    <a href="#" class="a-link">Continuar</a>
+                </section>
+            </article>
+            <article class="div-3-right">
+                <section class="others">
+                  <img src="https://picsum.photos/id/817/150/150" class="img-others">
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, necessitatibus! Pariatur omnis similique alias placeat asperiores quae dignissimos optio, ea ab, voluptatibus minus impedit ipsum perspiciatis ipsa iure maiores consectetur.</p>
+                  <a href="#" class="a-link">Continuar</a>
+                </section>
+                <section class="others">
+                  <img src="https://picsum.photos/id/821/150/150" class="img-others">
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, necessitatibus! Pariatur omnis similique alias placeat asperiores quae dignissimos optio, ea ab, voluptatibus minus impedit ipsum perspiciatis ipsa iure maiores consectetur.</p>
+                  <a href="#" class="a-link">Continuar</a>
+                </section>
+            </article>
+        </section>
+        <section class="section-2">
+            <img src="https://picsum.photos/id/808/1920/500">       
+        </section>
+        <section class="section-3">
+            <aside class="section-3-aside-l">
+
+            </aside>
+            <article class="section-3-article-m">
+
+            </article>
+            <aside class="section-3-aside-r">
+
+            </aside>                  
+        </section>
+    </main>
+    <!--<aside>
+        <section>
+            <h1>Links</h1>
+            <ul>
+                <li><a href="#">Link 1</a></li>
+                <li><a href="#">Link 2</a></li>
+            </ul>
+        </section>
+        <figure>
+            <img width="85" height="85" 
+                src="http://domain.tld/path/to/image.jpg" 
+                alt="foobar" />
+            <figcaption>Foobar</figcaption>
+        </figure>
+    </aside>-->
+    <footer class="footer">@fbamuniz</footer>
+</body>
+</html>
