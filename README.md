@@ -1,9 +1,13 @@
-# Big Game Survey 
+# HTML5
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
-# Sobre o projeto
+# Sobre o HTML5
 
 https://wmazoni-sds1.netlify.app
+
+Desde 1999, o desenvolvimento da linguagem HTML (HyperText Markup Language) ficou estacionado na versão 4. De lá pra cá, a W3C esteve focada em linguagens como XML (Extensible Markup Language) e SVG (Scalable Vector Graphics - o uso de gráficos vetoriais em navegadores). Enquanto isso, desenvolvedores de navegadores estiveram preocupados em melhorar as funcionalidades destes, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, no entanto, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.
+
+Neste artigo, veremos algumas novidades que o HTML5 traz. Para quem está se familiarizando agora com o HTML, sem preocupações: os elementos tradicionais continuam os mesmos, já que o HTML5 foi planejado considerando também compatibilidade com estas funcionalidades.
 
 Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
