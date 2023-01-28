@@ -107,7 +107,7 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+Prof. Frederico Barbosa Muniz 
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/fbamuniz/
 
