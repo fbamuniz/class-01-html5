@@ -1,19 +1,17 @@
-# HTML5
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+# jQuery3
+[![NPM](https://img.shields.io/npm/l/react)]
+# História
 
-# Sobre o HTML5
+Em 2006, John Resig era um desenvolvedor Web que trabalhava em seus próprios projetos. Ele estava frustrado com a dificuldade de escrever JavaScript que funcionasse em vários navegadores, e decidiu escrever sua própria biblioteca JavaScript para resolver os seus problemas: o jQuery.
+Em 16 de janeiro de 2006, John Resig deu uma palestra sobre sua nova biblioteca em uma BarCamp local, para um pequeno grupo de desenvolvedores Web, e publicou isso em seu blog. 
 
-https://wmazoni-sds1.netlify.app
+Muitos desenvolvedores Web amaram a simplicidade e o poder do jQuery, e a biblioteca de John logo ficou popular. Hoje, jQuery é a biblioteca JavaScript mais popular e é mantida pela Fundação jQuery, formada por uma grande equipe de voluntários. Quer saber mais sobre por que John inventou o jQuery e como essa biblioteca se transformou em um sucesso com centenas de contribuidores e milhares de desenvolvedores? 
 
-Desde 1999, o desenvolvimento da linguagem HTML (HyperText Markup Language) ficou estacionado na versão 4. De lá pra cá, a W3C esteve focada em linguagens como XML (Extensible Markup Language) e SVG (Scalable Vector Graphics - o uso de gráficos vetoriais em navegadores). Enquanto isso, desenvolvedores de navegadores estiveram preocupados em melhorar as funcionalidades destes, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, no entanto, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.
-
-Neste artigo, veremos algumas novidades que o HTML5 traz. Para quem está se familiarizando agora com o HTML, sem preocupações: os elementos tradicionais continuam os mesmos, já que o HTML5 foi planejado considerando também compatibilidade com estas funcionalidades.
-
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+Assista a esse vídeo no qual o professor da Escola de Informação da UMich, Charles Severance, entrevista John Resig no escritório da Khan Academy:
 
 ## Layout mobile
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
 ## Layout web
