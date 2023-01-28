@@ -61,48 +61,17 @@ Assista a esse vídeo no qual o professor da Escola de Informação da UMich, Ch
 - **class-12-siblings-next-prev** - _O método siblings() aplica o efeito em um irmão específico. O método next() aplica o efeito no irmão direto (abaixo). O método prev() aplica o efeito no irmão direto (acima). O método prevAll() aplica o efeito em todos os irmãos direto (abaixo). O método prevAll() aplica o efeito em todos os irmãos direto (acima). O método prevUntil() aplica o efeito entre dois elementos irmãos (acima). O método nextUntil() aplica o efeito entre dois elementos irmãos (abaixo)_
 - **class-13-filter-first-eq-last** - _O método first() formata o primeiro elemento. O método last() formata o último elemento. O método eq(x) formata um elemento específico da sequência_
 - **class-14-filter-not** - _O método filter() permite uma nova formatação a partir da busca da classe (igual ao nome buscado). O método not() permite uma nova formatação a partir da busca da classe (diferente do nome buscado)_
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+
 
 # Como executar o projeto
 
-## Back end
-Pré-requisitos: Java 11
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
 ## Front end web
-Pré-requisitos: npm / yarn
+Pré-requisitos: Visual Studio Code
 
 ```bash
 # clonar repositório
 git clone https://github.com/devsuperior/sds1-wmazoni
 
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
 ```
 
 # Autor
