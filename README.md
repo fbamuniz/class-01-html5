@@ -26,7 +26,7 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 
 # Descrição das aulas
 ## Introdução
-- **class-01-basic** - __Explicação sobre a estrutura do jQuery__
+- **class-01-basic** - _Explicação sobre a estrutura do jQuery_
 - class-02-arrow-function - Aplicação da estrutura simplificada para funções
 - class-03-text - Inserção de texto com jQuery
 - class-04-text-val-html - Inserção de texto e elementos HTML com jQuery
