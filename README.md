@@ -24,12 +24,21 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
 
-# Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
+# Descrição das aulas
+## Introdução
+- class-01-basic - Explicação sobre a estrutura do jQuery
+- class-02-arrow-function - Aplicação da estrutura simplificada para funções
+- class-03-text - Inserção de texto com jQuery
+- class-04-text-val-html - Inserção de texto e elementos HTML com jQuery
+- class-05-index - O método index() retorna o número da sequência de vezes que um determinado elemento foi utilizado
+- class-06-noconflict - O método noConflict() altera o símbolo $ do seletor jQuery para qualquer outro desejado, impedindo possíveis conflitos
+- class-07-length - O método length() retorna a quantidade de vezes que um determinado elemento HTML foi utilizado
+- class-08-units - Os métodos innerWidth(), innerHeight(), outerWidth() e outerHeight() retornam o espaçamento total do tamanho, padding, border e margin em pixels do elemento
+- class-10-parent - O método parent() aplica modificações somente no elemento acima. O método parent() aplicada somente no último elemento. O método parents() aplica em todos os elementos acima. O método parentsUntil() aplica de um determinado elemento até outro
+- class-11-children-find - Ao contrário do método parent(), o children() trata os elementos filhos
+- class-12-siblings-next-prev - O método siblings() aplica o efeito em um irmão específico. O método next() aplica o efeito no irmão direto (abaixo). O método prev() aplica o efeito no irmão direto (acima). O método prevAll() aplica o efeito em todos os irmãos direto (abaixo). O método prevAll() aplica o efeito em todos os irmãos direto (acima). O método prevUntil() aplica o efeito entre dois elementos irmãos (acima). O método nextUntil() aplica o efeito entre dois elementos irmãos (abaixo)
+- class-13-filter-first-eq-last - O método first() formata o primeiro elemento. O método last() formata o último elemento. O método eq(x) formata um elemento específico da sequência
+- class-14-filter-not - O método filter() permite uma nova formatação a partir da busca da classe (igual ao nome buscado). O método not() permite uma nova formatação a partir da busca da classe (diferente do nome buscado)
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
