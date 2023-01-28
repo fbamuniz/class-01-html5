@@ -36,12 +36,12 @@ O construtor faz uso do seguinte parâmetro, onde alvo é um seletor CSS para TA
 
 $(alvo)
 Vejamos alguns exemplo de sua utilização.
-
-- $(‘h1’)
-- $(‘p’)
-- $(‘#conteudo’)
-- $(‘.teste’)
-
+```javascript
+$('h1')
+$('p')
+$('#conteudo')
+$('.teste')
+```
 Muitos desenvolvedores Web amaram a simplicidade e o poder do jQuery, e a biblioteca de John logo ficou popular. Hoje, jQuery é a biblioteca JavaScript mais popular e é mantida pela Fundação jQuery, formada por uma grande equipe de voluntários. Quer saber mais sobre por que John inventou o jQuery e como essa biblioteca se transformou em um sucesso com centenas de contribuidores e milhares de desenvolvedores? 
 
 Assista a esse vídeo no qual o professor da Escola de Informação da UMich, Charles Severance, entrevista John Resig no escritório da Khan Academy:
