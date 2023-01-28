@@ -9,18 +9,8 @@ Muitos desenvolvedores Web amaram a simplicidade e o poder do jQuery, e a biblio
 
 Assista a esse vídeo no qual o professor da Escola de Informação da UMich, Charles Severance, entrevista John Resig no escritório da Khan Academy:
 
-## Layout mobile
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
-
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+## Entrevista com John Resig
+[![Watch the video](https://img.youtube.com/vi/5SzUDgDvCzc/maxresdefault.jpg)](https://www.youtube.com/watch?v=5SzUDgDvCzc)
 
 # Descrição das aulas
 ## Introdução
