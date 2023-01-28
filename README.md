@@ -46,9 +46,6 @@ Muitos desenvolvedores Web amaram a simplicidade e o poder do jQuery, e a biblio
 
 Assista a esse vídeo no qual o professor da Escola de Informação da UMich, Charles Severance, entrevista John Resig no escritório da Khan Academy:
 
-## Entrevista com John Resig
-[![Watch the video](https://img.youtube.com/vi/5SzUDgDvCzc/maxresdefault.jpg)](https://www.youtube.com/watch?v=5SzUDgDvCzc)
-
 # Descrição das aulas
 ## Introdução
 - **class-01-basic** - _Explicação sobre a estrutura do jQuery_
