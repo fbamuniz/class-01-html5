@@ -65,12 +65,12 @@ Assista a esse vídeo no qual o professor da Escola de Informação da UMich, Ch
 
 # Como executar o projeto
 
-## Front end web
+## Front end Web
 Pré-requisitos: Visual Studio Code
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/fbamuniz/class-01-html5.git
 
 ```
 
