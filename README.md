@@ -109,5 +109,5 @@ yarn start
 
 Prof. Frederico Barbosa Muniz 
 
-https://www.linkedin.com/in/fbamuniz/
+https://linktr.ee/fbamuniz
 
