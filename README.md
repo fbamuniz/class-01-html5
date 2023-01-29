@@ -86,7 +86,7 @@ Muitos elementos da versão 4.0.1 foram excluídos da nova versão, uns por nunc
                 </header>
                 <section>
                     <img src="https://picsum.photos/id/816/350/200" class="img-highlight">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, necessitatibus! Pariatur omnis similique alias placeat asperiores quae dignissimos optio, ea ab, voluptatibus minus impedit ipsum perspiciatis ipsa iure maiores consectetur.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                     <a href="#" class="a-link">Continuar</a>
                 </section>
             </article>
