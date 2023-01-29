@@ -46,6 +46,12 @@ Muitos desenvolvedores Web amaram a simplicidade e o poder do jQuery, e a biblio
 
 Assista a esse vídeo no qual o professor da Escola de Informação da UMich, Charles Severance, entrevista John Resig no escritório da Khan Academy:
 
+## Referência
+
+- Pausa para a história: como John criou o jQuery?. Khan Academy, Disponível em: <https://pt.khanacademy.org/computing/computer-programming/html-js-jquery/jquery-dom-access/a/history-of-jquery>. Acesso em: 28 de jan. de 2023.
+
+
+
 # Descrição das aulas
 ## Introdução
 - **lesson-01-basic** - Explicação sobre a estrutura do jQuery
@@ -107,7 +113,9 @@ Assista a esse vídeo no qual o professor da Escola de Informação da UMich, Ch
 # Como executar o projeto
 
 ## Front end Web
-Pré-requisitos: Visual Studio Code
+Pré-requisitos: 
+- Visual Studio Code
+- GIT
 
 ```bash
 # clonar repositório
