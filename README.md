@@ -56,27 +56,42 @@ O elemento canvas foi incluído para permitir desenhar gráficos em uma página 
 
 Outro motivo para integrar plugins externos é o uso de áudio e vídeo nas páginas Web. Com a inclusão de tags específicas para este fim, a HTML5 dá suporte nativo para a reprodução de áudio e vídeo sem a necessidade de utilizar mecanismos externos. 
 
+```html
+<!-- Exemplo de faixa de áudio -->
+	<audio controls>
+		<source src="horse.mp3" type="audio/mpeg">
+	</audio>
+	<br><br>
+	<!-- Exemplo de faixa de vídeo e legenda -->
+	<video width="320" height="240" controls>
+		<source src="forrest_gump.mp4" type="video/mp4">
+		<track src="fgsubtitles_en.vtt" kind="subtitles" srclang="en" label="English">
+	</video>
+```
+
 **c) Melhor suporte para armazenamento local**
 
-O HTML5 oferece 2 novos objetos para armazenar dados localmente:
-
-```html
-<!-- O sessionStorage, que rmazena dados durante uma sessão ativa -->
-<script type="text/javascript">
-	sessionStorage.sobreNome ="Botelho";
-	document.write(sessionStorage.sobreNome);
-</script>
-
-<!-- O localStorage: Armazena dados sem limite de tempo -->
-<script type="text/javascript">
-	localStorage.sobreNome="Botelho";
-	document.write(localStorage.sobreNome);
-</script>
-```
+Inclusão de novos objetos para armazenamento de dados locais (com auxilia de JavaScript).
 
 **d) Inclusão de novos elementos de conteúdo específico.**
 
-Muitos elementos da versão 4.0.1 foram excluídos da nova versão, uns por nunca terem sido usados, outros por estarem obsoletos e outros por serem usados indevidamente. A nova versão traz novos elementos para proporcionar aos usuários uma melhor estrutura, desenho e conteúdo multimídia. A seguir uma relação dos novos elementos com sua descrição:
+Muitos elementos da versão 4.0.1 foram excluídos da nova versão, uns por nunca terem sido usados, outros por estarem obsoletos e outros por serem usados indevidamente. A nova versão traz novos elementos para proporcionar aos usuários uma melhor estrutura, desenho e conteúdo multimídia (denominados elementos semânticos). A relação desses elementos será abordada na aula 18. Abaixo segue uma prévia:
+
+```html
+<!-- Exemplo de faixa de áudio -->
+	<section class="section-1">
+            <article class="div-3-left">
+                <header>
+                    <h1>Lorem ipsum dolor sit amet consectetur.</h1>
+                </header>
+                <section>
+                    <img src="https://picsum.photos/id/816/350/200" class="img-highlight">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, necessitatibus! Pariatur omnis similique alias placeat asperiores quae dignissimos optio, ea ab, voluptatibus minus impedit ipsum perspiciatis ipsa iure maiores consectetur.</p>
+                    <a href="#" class="a-link">Continuar</a>
+                </section>
+            </article>
+    </section>
+```
 
 **e) Inclusão de novos controles para formulário.**
 
