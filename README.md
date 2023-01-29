@@ -36,7 +36,7 @@ Abaixo, um exemplo do que é denominado como estrutura básica de um site:
 
 Existem programas profissionais para criação de páginas em HTML, como o Visual Studio Code ou Notepad++. Apesar da enorme importância para o mundo da informação, o HTML estancou na versão 4.0.1 desde 1999 e não acompanhou as dinâmicas mudanças que ocorreram nos últimos anos e para atender as necessidades careceu utilizar plugins externos como o já aposentado [Adobe Flash Player](https://pt.wikipedia.org/wiki/Adobe_Flash_Player) e outros. Mas felizmente, isso são coisas do passado, pois a [W3C](https://pt.wikipedia.org/wiki/W3C) (World Wide Web Consortium) e a [WHATWG](https://pt.wikipedia.org/wiki/WHATWG) (Web Hypertext Application Technology Working Group) disponibilizaram a versão HTML 5.
 
-## O que é HTML5
+## O que é o HTML5
 
 O HTML5 é o novo padrão para a estruturação e apresentação de conteúdo na Word Wide Web trazendo melhorias significativas com novas funcionalidades de semântica e acessibilidade, além de melhorar o suporte aos mais recentes conteúdo multimídias. As principais mudanças que a nova versão proporciona aos usuários são: 
 
@@ -72,7 +72,7 @@ Outro motivo para integrar plugins externos é o uso de áudio e vídeo nas pág
 
 **c) Melhor suporte para armazenamento local**
 
-Inclusão de novos objetos para armazenamento de dados locais (com auxilio de JavaScript). Estes procedimentos não serão abordados neste curso, uma vez que a manipulação de arquivos depende do uso de uma outra linguagem no [back-end](https://pt.wikipedia.org/wiki/Front-end_e_back-end).
+Inclusão de novos objetos para armazenamento de dados locais. Estes procedimentos não serão abordados neste curso, uma vez que a manipulação de arquivos depende do uso de uma outra linguagem no [back-end](https://pt.wikipedia.org/wiki/Front-end_e_back-end).
 
 **d) Inclusão de novos elementos de conteúdo específico.**
 
