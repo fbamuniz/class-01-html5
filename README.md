@@ -74,24 +74,25 @@ O HTML5 oferece 2 novos objetos para armazenar dados localmente:
 </script>
 ```
 
-d) Inclusão de novos elementos de conteúdo específico.
-Muitos elementos da versão 4.0.1 foram excluídos da nova versão, uns por nunca terem sido usados, outros por estarem obsoletos e outros por serem usados indevidamente. A nova versão traz novos elementos para proporcionar aos usuários uma melhor estrutura, desenho e conteúdo multimídia.
+**d) Inclusão de novos elementos de conteúdo específico.**
 
+Muitos elementos da versão 4.0.1 foram excluídos da nova versão, uns por nunca terem sido usados, outros por estarem obsoletos e outros por serem usados indevidamente. A nova versão traz novos elementos para proporcionar aos usuários uma melhor estrutura, desenho e conteúdo multimídia. A seguir uma relação dos novos elementos com sua descrição:
 
+**e) Inclusão de novos controles para formulário.**
 
+Uma carência da versão 4.0.1 e a escassa quantidade de controles para formulário fazendo com que os desenvolvedores recorram as famosas bibliotecas JavaScript, muitas vezes incompatíveis com determinados navegadores. Na versão 5 novos controles de formulário foram incluídos para facilitar a vida dos desenvolvedores. São eles:
 
+Um dos remanescentes da versão 4.0.1, o elemento input, ganhou novos valores para o atributo type, fazendo com que o desenvolvedor ganhe maior controle sobre a entrada de dados pelo usuário.
 
+São os eles:
 
+**f) Total suporte ao CSS3**
 
+Para dar ainda mais liberdade à criatividade dos usuários o HTML5 dá total suporte a mais nova versão das famosas Cascading Style Sheets, ou simplesmente CSS. Com essa integração as páginas webs podem receber os mais variados tipos de estilos como sombra nos textos e quadros, efeitos de transição, quadro com cantos arredondados e vários recursos novos que o CSS3 oferece.
 
+## Suporte
 
-
-
-
-
-
-
-
+Apesar da versão 5 não ter sido oficializada, vários navegadores continuam adicionando os novos recursos do HTML5 nas suas recentes versões. Dentre os navegadores podemos citar: Safari, Chrome, Firefox, Opera e Internet Explorer. Com a chegada da nova versão da linguagem de marcação HTML só temos a ganhar, pois além de contarmos com novos recursos que permitem uma maior estruturação dos documentos, mais funcionalidades, independência de plataforma, tratamento de exceção e suporte nativo aos recentes conteúdos multimídias, ainda podemos ficar livres dos incômodos estresses que temos ao utilizar bibliotecas e plugins externos que nem sempre funcionam como deveriam nos navegadores distintos.
 
 No vídeo abaixo da Dotec, é apresentado um pequeno resumo do que é o HTML e sua aplicabilidade. 
 
