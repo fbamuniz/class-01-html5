@@ -111,7 +111,7 @@ Assista a esse vídeo no qual o professor da Escola de Informação da UMich, Ch
 - **lesson-56-get-xml-mvc** - Formas de manipular arquivos XML, organizando com o padrão de projeto MVC (Model, View e Controller)
 - **lesson-57-get-json** - Formas de manipular arquivos JSON, organizando com o padrão de projeto MVC (Model, View e Controller)
 
-# Como executar o projeto
+# Como executar as aulas
 
 ## Front end Web
 Pré-requisitos: 
