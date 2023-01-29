@@ -124,6 +124,12 @@ git clone https://github.com/fbamuniz/class-01-html5.git
 
 ```
 
+## Bibliografia das aulas
+
+- DUCKETT, J. HTML e CSS: Projete e Construa Websites. Rio de Janeiro: Alta Books. 2016.
+- MEYER, E. S. CSS – técnicas profissionais para um layout moderno. Porto Alegre: Bookman, 2011.
+
+
 # Autor
 
 Prof. Frederico Barbosa Muniz 
