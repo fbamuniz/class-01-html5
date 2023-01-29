@@ -57,6 +57,7 @@ O elemento canvas foi incluído para permitir desenhar gráficos em uma página 
 Outro motivo para integrar plugins externos é o uso de áudio e vídeo nas páginas Web. Com a inclusão de tags específicas para este fim, a HTML5 dá suporte nativo para a reprodução de áudio e vídeo sem a necessidade de utilizar mecanismos externos. 
 
 **c) Melhor suporte para armazenamento local**
+
 O HTML5 oferece 2 novos objetos para armazenar dados localmente:
 
 ```html
