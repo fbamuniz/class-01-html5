@@ -1,44 +1,40 @@
-# jQuery3
+# HTML5
 ![NPM](https://img.shields.io/npm/l/react)
 # Introdução
 
-Em 2006, John Resig era um desenvolvedor Web que trabalhava em seus próprios projetos. Ele estava frustrado com a dificuldade de escrever códigos em JavaScript que funcionasse em vários navegadores, então decidiu escrever sua própria biblioteca JavaScript para resolver os seus problemas. Eis que surgi o jQuery. Em 16 de janeiro de 2006, John Resig deu uma palestra sobre sua nova biblioteca no BarCamp em Nova York, para um pequeno grupo de desenvolvedores Web, e publicou isso em seu blog.
+O HTML foi criado em 1991, por Tim Berners-Lee, no CERN (European Council for Nuclear Research) na suíça. Inicialmente o HTML foi projetado para interligar instituições de pesquisa próximas, e compartilhar documentos com facilidade. Em 1992, foi liberada a biblioteca de desenvolvimento WWW (World Wide Web), uma rede de alcance mundial, que junto com o HTML proporcionou o uso em escala mundial da Web.
 
-O jQuery é então uma biblioteca de funções em JavaScript que interage com o HTML, desenvolvida para simplificar os scripts interpretados no navegador do usuário (client-side). Usada por cerca de 77% dos 10 mil sites mais visitados do mundo, jQuery é a mais popular das bibliotecas JavaScript. O jQuery é uma biblioteca de código aberto (open source) e possui licença dual, fazendo uso da Licença MIT ou da GNU General Public License versão 2. 
+O HTML é uma linguagem de marcação. Estas linguagens são constituídas de códigos que delimitam conteúdos específicos, segundo uma sintaxe própria. O HTML tem códigos para criar paginas na web. Estes códigos que definem o tipo de letra, qual o tamanho, cor, espaçamento, e vários outros aspectos do site. No início era muito complicado aprender HTML, pois eram muitos comandos para fazer algo simples. A cada nova versão, o HTML fica mais fácil de utilizar, e adquire mais funções. Atualmente qualquer pessoa pode acessar a internet a aprender a construir um site básico em questão de horas, seguindo os passos de tutoriais e aprendendo as funções de cada código.
 
-A sintaxe do jQuery foi desenvolvida para simplificar a navegação em documentos HTML, a seleção de elementos DOM, criar animações, manipular eventos, desenvolver aplicações AJAX e criação de plugins sobre ela. Permitindo aos desenvolvedores criarem camadas de abstração para interações de baixo nível de modo simplificado em aplicações Web de grande complexidade.
+O HTML foi a primeira linguagem de nível mundial, porem não é a única. Existem muitas outras linguagens destinadas á criação de paginas da web, porém o HTML ainda prevalece. Atualmente já é possível integrar varias linguagens na mesma pagina da Web, sendo possível usar duas ou mais linguagens no mesmo site.
 
-O jQuery é leve, seu tamanho é em torno de 30kb, extensível, oferece suporte a plug-ins e conta ainda com uma grande equipe de desenvolvedores que vem diariamente adicionando novos recursos e funções a está biblioteca, nos disponibilizando uma grande quantidade de controles para interface.
+Para criar e editar códigos em HTML é necessário qualquer editor de texto comum, como bloco de notas. Para testar os códigos, basta salvar o arquivo em formato .HTML e executar. Para o teste é necessário ter um navegador configurado como padrão. Não é necessária internet, pois o arquivo com os códigos esta na maquina onde esta sendo executado.
 
-**Podemos utilizar a jQuery para**:
+Alguns códigos em HTML e suas funções:
 
-- Adicionarmos efeitos visuais e animações;
-- Acessarmos e manipularmos o DOM;
-- Carregarmos componentes Ajax;
-- Provermos interatividade;
-- Fazer alteração de conteúdo;
-- Simplificarmos tarefas JavaScript.
-
-**Suporte ao jQuery**
-
-O jQuery foi desenvolvido para ser uma biblioteca com suporte a qualquer navegador Web. Ele facilita a nós desenvolvedores a difícil tarefa de desenvolvermos aplicações em JavaScript, tendo que atingir a enorme quantidade de navegadores em que nossa programação poderá ser executada. Como sabemos, cada navegador possui seu próprio conjunto de características de implementação que pode dificultar mais ainda, de acordo com a variação de plataforma e sistema operacional onde esteja executando. Já com o jQuery, nossa programação é única e transparente.
-
-Com o jQuery possuímos suporte também ao CSS3, onde podemos utilizar seletores CSS3, mesmo que o navegador não tenha suporte a uma determinada folha de estilo. Isso é possível porque o próprio jQuery implementa os seletores CSS3, o que faz com que ele seja independente do navegador em que estiver sendo executado.
-
-**Construtor jQuery**
-
-Com o jQuery temos que utilizar a função $() para encontrarmos um elemento HTML dentro da aplicação e utilizarmos as funções da biblioteca. Essa função é tecnicamente conhecida como **construtor** ou função construtora e ela estará presente em todas as aplicações que utilizarmos o jQuery.
-
-É denominada desse modo para ser fácil de decorar e o fato de se chamar $ evita a possibilidade de ocorrer conflitos com outras funções da biblioteca do usuário. Ocasionalmente podemos vir a utilizar alguma outra biblioteca que também tenha como uso uma função chamada $. Caso isso aconteça, podemos usar como alternativa a função jQuery().
-
-O construtor faz uso do seguinte parâmetro, onde o alvo é um seletor CSS para TAG, ID ou classe. Vejamos alguns exemplo de sua utilização.
-```javascript
-$('h1')
-$('p')
-$('#conteudo')
-$('.teste')
+```html
+<!-- Isto é um comentário e pode ser usado em qualquer parte da página -->
+<!DOCTYPE html>
+<!-- Algumas tags possuem atributos e valores, como o caso do lang="pt-br" -->
+<html lang="pt-br">
+<!-- No cabeçalho são definidas configurações importantes sobre o funcionamento da página -->    
+<head>
+    <!-- As tags também são chamadas de elementos HTML -->
+    <meta charset="UTF-8">
+    <!-- Definimos um título para a página. Algumas tags possuem fechamento, como o caso de </title> -->
+    <title>Programação Web</title>
+</head>
+<!-- No body construímos a estrutura da página -->
+<body>
+<!-- Abaixo um exemplo simples de estrutura, com título e parágrafo -->    
+    <h1>Iniciando as aulas de Programação Web</h1>
+    <p>Esta é somente uma página contendo a estrura básica do HTML.</p>
+<!-- A indentação é um procedimento muito importante no âmbito do desenvolvimento de sistemas -->    
+</body>
+</html>
 ```
-Muitos desenvolvedores Web amaram a simplicidade e o poder do jQuery, e a biblioteca de John logo ficou popular. Hoje, jQuery é a biblioteca JavaScript mais popular e é mantida pela Fundação jQuery, formada por uma grande equipe de voluntários. 
+
+Existem programas profissionais para criação de páginas em html automaticamente, como o Visual Studio Code ou Notepad++, entretanto, com o tempo o desenvolvedor precisará criar páginas complexas demais, sendo necessário ele mesmo digitar alguns códigos HTML.
 
 No vídeo abaixo da Hostinger Brasil, é apresentado um pequeno resumo do que é o jQuery e sua aplicabilidade. 
 
