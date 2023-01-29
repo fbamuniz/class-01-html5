@@ -78,7 +78,7 @@ Inclusão de novos objetos para armazenamento de dados locais (com auxilia de Ja
 Muitos elementos da versão 4.0.1 foram excluídos da nova versão, uns por nunca terem sido usados, outros por estarem obsoletos e outros por serem usados indevidamente. A nova versão traz novos elementos para proporcionar aos usuários uma melhor estrutura, desenho e conteúdo multimídia (denominados elementos semânticos). A relação desses elementos será abordada na aula 18. Abaixo segue uma prévia:
 
 ```html
-<!-- Exemplo de faixa de áudio -->
+<!-- Exemplo de elementos semânticos -->
 	<section class="section-1">
             <article class="div-3-left">
                 <header>
@@ -95,11 +95,22 @@ Muitos elementos da versão 4.0.1 foram excluídos da nova versão, uns por nunc
 
 **e) Inclusão de novos controles para formulário.**
 
-Uma carência da versão 4.0.1 e a escassa quantidade de controles para formulário fazendo com que os desenvolvedores recorram as famosas bibliotecas JavaScript, muitas vezes incompatíveis com determinados navegadores. Na versão 5 novos controles de formulário foram incluídos para facilitar a vida dos desenvolvedores. São eles:
+Uma carência da versão 4.0.1 e a escassa quantidade de controles para formulário fazendo com que os desenvolvedores recorram as famosas bibliotecas JavaScript, muitas vezes incompatíveis com determinados navegadores. Na versão 5 novos controles de formulário foram incluídos para facilitar a vida dos desenvolvedores. Um dos remanescentes da versão 4.0.1, o elemento input, ganhou novos valores para o atributo type, fazendo com que o desenvolvedor ganhe maior controle sobre a entrada de dados pelo usuário. Abaixo, uma prévia:
 
-Um dos remanescentes da versão 4.0.1, o elemento input, ganhou novos valores para o atributo type, fazendo com que o desenvolvedor ganhe maior controle sobre a entrada de dados pelo usuário.
-
-São os eles:
+```html
+<!-- Entrada do tipo cor -->
+	<label>Cores</label><br>
+    <input type="color"><br><br>
+<!-- Entrada do tipo data -->
+    <label>Data</label><br>
+    <input type="date"><br><br>
+<!-- Entrada do tipo mês -->
+    <label>Mês</label><br>
+    <input type="month"><br><br>
+<!-- Entrada do tipo semana -->
+    <label>Semana</label><br>
+    <input type="week">
+```
 
 **f) Total suporte ao CSS3**
 
