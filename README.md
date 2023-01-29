@@ -50,47 +50,29 @@ As novas características da versão 5 estão ligadas diretamente as necessidade
 
 **a) Inclusão do elemento canvas para desenho.**
 
-O elemento canvas foi incluído para permitir desenhar gráficos em uma página web, tarefa essa que atualmente só é possível com a utilização de plugins externos. O canvas é uma área retangular onde o usuário, via JavaScript, vai poder controlar todos os pixels, além de desenhar vários elementos gráficos como círculo, retângulo, elipse, linha, texto, imagens, etc. Para usar um elemento canvas no documento, além da inclusão da tag, temos que manipular o elemento via JavaScript:
+O elemento canvas foi incluído para permitir desenhar gráficos em uma página Web, tarefa essa que atualmente só é possível com a utilização de plugins externos. Neste curso não trabalharemos com o elemento canvas, pois futuramente será disponibilizado um outro curso somente sobre este assunto.
 
-```html
-<canvas id="myCanvas" width="400" height="400"></canvas>
-Inclusão da tag
-<script type="text/javascript">
-var myCanvas = document.getElementById("myCanvas");
-var canvas =  myCanvas.getContext("2d");
-canvas.fill#FF0000";
-canvas.fillRect(0,0,100,100);
-</script>
-```
-Manipulação do elemento com JavaScript
-b) Inclusão dos elementos vídeo e áudio para reprodução multimídia
-Outro motivo para integrar plugins externos é o uso de áudio e vídeo nas páginas web. Com a inclusão de tags específicas para este fim, a HTML5 dá suporte nativo para a reprodução de áudio e vídeo sem a necessidade de utilizar mecanismos externos. Para usar o elemento áudio ou vídeo, basta incluir a tag específica no documento.
+**b) Inclusão dos elementos vídeo e áudio para reprodução multimídia**
 
-<video width="100" height="100" controls="controls">
-  	<source src="video.mp4" type="video/mp4" />
-  	<source src="video.ogg" type="video/ogg" />
- 	O seu navegador não suporta o formato.
-</video>
-Elemento vídeo
-<audio controls="controls">
-  	<source src="audio. mp3" type=" audio/mpeg " />
-  	<source src="audio.ogg" type=" audio/ogg " />
-O seu navegador não suporta o formato.
-</audio>
-Elemento áudio
-c) Melhor suporte para armazenamento local.
+Outro motivo para integrar plugins externos é o uso de áudio e vídeo nas páginas Web. Com a inclusão de tags específicas para este fim, a HTML5 dá suporte nativo para a reprodução de áudio e vídeo sem a necessidade de utilizar mecanismos externos. 
+
+**c) Melhor suporte para armazenamento local**
 O HTML5 oferece 2 novos objetos para armazenar dados localmente:
 
-sessionStorage: Armazena dados durante uma sessão ativa.
+```html
+<!-- O sessionStorage, que rmazena dados durante uma sessão ativa -->
 <script type="text/javascript">
-	sessionStorage. sobreNome ="Botelho";
-	document.write(sessionStorage. sobreNome);
+	sessionStorage.sobreNome ="Botelho";
+	document.write(sessionStorage.sobreNome);
 </script>
-localStorage: Armazena dados sem limite de tempo
+
+<!-- O localStorage: Armazena dados sem limite de tempo -->
 <script type="text/javascript">
 	localStorage.sobreNome="Botelho";
-	document.write(localStorage. sobreNome);
+	document.write(localStorage.sobreNome);
 </script>
+```
+
 d) Inclusão de novos elementos de conteúdo específico.
 Muitos elementos da versão 4.0.1 foram excluídos da nova versão, uns por nunca terem sido usados, outros por estarem obsoletos e outros por serem usados indevidamente. A nova versão traz novos elementos para proporcionar aos usuários uma melhor estrutura, desenho e conteúdo multimídia.
 
