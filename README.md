@@ -36,13 +36,13 @@ Alguns códigos em HTML e suas funções:
 
 Existem programas profissionais para criação de páginas em html automaticamente, como o Visual Studio Code ou Notepad++, entretanto, com o tempo o desenvolvedor precisará criar páginas complexas demais, sendo necessário ele mesmo digitar alguns códigos HTML.
 
-No vídeo abaixo da Hostinger Brasil, é apresentado um pequeno resumo do que é o jQuery e sua aplicabilidade. 
+No vídeo abaixo da Dotec, é apresentado um pequeno resumo do que é o HTML e sua aplicabilidade. 
 
-[![Assista ao vídeo](https://img.youtube.com/vi/AeCczbOctM8/maxresdefault.jpg)](https://www.youtube.com/watch?v=AeCczbOctM8)
+[![Assista ao vídeo](https://img.youtube.com/vi/Tld2CrT5c2s/maxresdefault.jpg)](https://www.youtube.com/watch?v=Tld2CrT5c2s)
 
 ## Referências
 
-- Pausa para a história: como John criou o jQuery? Khan Academy, disponível em: [https://pt.khanacademy.org](https://pt.khanacademy.org/computing/computer-programming/html-js-jquery/jquery-dom-access/a/history-of-jquery). Acesso em: 28 de jan. de 2023.
+- HTML. Infoescola, disponível em: [https://www.infoescola.com](https://www.infoescola.com/informatica/html/#:~:text=O%20HTML%20foi%20criado%20em,e%20compartilhar%20documentos%20com%20facilidade.). Acesso em: 28 de jan. de 2023.
 - jQuery Tutorial. Devmedia, disponível em: [https://www.devmedia.com.br](https://www.devmedia.com.br/jquery-tutorial/27299). Acesso em: 28 de jan. de 2023.
 
 # Como executar
