@@ -53,10 +53,8 @@ Assista a esse vídeo no qual o professor da Escola de Informação da UMich, Ch
 - Pausa para a história: como John criou o jQuery? Khan Academy, disponível em: [https://pt.khanacademy.org](https://pt.khanacademy.org/computing/computer-programming/html-js-jquery/jquery-dom-access/a/history-of-jquery). Acesso em: 28 de jan. de 2023.
 - jQuery Tutorial. Devmedia, disponível em: [https://www.devmedia.com.br](https://www.devmedia.com.br/jquery-tutorial/27299). Acesso em: 28 de jan. de 2023.
 
-
-
 # Descrição das aulas
-## Introdução
+
 - **lesson-01-basic** - Explicação sobre a estrutura do jQuery
 - **lesson-02-arrow-function** - Aplicação da estrutura simplificada para funções
 - **lesson-03-text** - Inserção de texto com jQuery
