@@ -99,14 +99,17 @@ Uma carência da versão 4.0.1 e a escassa quantidade de controles para formulá
 
 ```html
 <!-- Entrada do tipo cor -->
-	<label>Cores</label><br>
+    <label>Cores</label><br>
     <input type="color"><br><br>
+
 <!-- Entrada do tipo data -->
     <label>Data</label><br>
     <input type="date"><br><br>
+
 <!-- Entrada do tipo mês -->
     <label>Mês</label><br>
     <input type="month"><br><br>
+    
 <!-- Entrada do tipo semana -->
     <label>Semana</label><br>
     <input type="week">
