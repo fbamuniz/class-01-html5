@@ -48,7 +48,7 @@ Assista a esse vídeo no qual o professor da Escola de Informação da UMich, Ch
 
 ## Referência
 
-- Pausa para a história: como John criou o jQuery?. Khan Academy, Disponível em: <https://pt.khanacademy.org/computing/computer-programming/html-js-jquery/jquery-dom-access/a/history-of-jquery>. Acesso em: 28 de jan. de 2023.
+- Pausa para a história: como John criou o jQuery?. Khan Academy, Disponível em: <shorturl.at/BEV04>. Acesso em: 28 de jan. de 2023.
 
 
 
