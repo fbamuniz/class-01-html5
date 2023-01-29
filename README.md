@@ -36,6 +36,14 @@ Alguns códigos em HTML e suas funções:
 
 Existem programas profissionais para criação de páginas em html automaticamente, como o Visual Studio Code ou Notepad++, entretanto, com o tempo o desenvolvedor precisará criar páginas complexas demais, sendo necessário ele mesmo digitar alguns códigos HTML.
 
+Apesar da enorme importância para o mundo da informação o HTML estancou na versão 4.0.1 desde 1999 e não acompanhou as dinâmicas mudanças que ocorreram nos últimos anos e para atender as necessidades careceu utilizar plugins externos como o flash player e outros. Mas felizmente, isso são coisas do passado, pois a W3C (World Wide Web Consortium) e a WHATWG (Web Hypertext Application Technology Working Group) disponibilizaram uma versão de teste que provavelmente será a nova cara do HTML. Esse artigo mostra as novas características dessa versão que, inclusive, já tem suporte para algumas funcionalidades nos mais conceituados navegadores e brevemente será oficializado por definitivo como o HTML 5.
+
+# O que é HTML5
+
+Surgido a partir de um consórcio entre a W3C (World Wide Web Consortium) e a WHATWG (Web Hypertext Application Technology Working Group), o HTML5 será o novo padrão para a estruturação e apresentação de conteúdo na Word Wide Web trazendo melhorias significativas com novas funcionalidades de semântica e acessibilidade, além de melhorar o suporte aos mais recentes conteúdo multimídias.
+
+As principais mudanças que a nova versão proporcionará aos usuários são: Melhor tratamento de exceção, mais tags para substituir scripts, independência de plataforma e redução da necessidade de plugins externos.
+
 No vídeo abaixo da Dotec, é apresentado um pequeno resumo do que é o HTML e sua aplicabilidade. 
 
 [![Assista ao vídeo](https://img.youtube.com/vi/Tld2CrT5c2s/maxresdefault.jpg)](https://www.youtube.com/watch?v=Tld2CrT5c2s)
@@ -43,7 +51,7 @@ No vídeo abaixo da Dotec, é apresentado um pequeno resumo do que é o HTML e s
 ## Referências
 
 - HTML. Infoescola, disponível em: [https://www.infoescola.com](https://www.infoescola.com/informatica/html/#:~:text=O%20HTML%20foi%20criado%20em,e%20compartilhar%20documentos%20com%20facilidade.). Acesso em: 28 de jan. de 2023.
-- jQuery Tutorial. Devmedia, disponível em: [https://www.devmedia.com.br](https://www.devmedia.com.br/jquery-tutorial/27299). Acesso em: 28 de jan. de 2023.
+- HTML5. Devmedia, disponível em: [https://www.devmedia.com.br](https://www.devmedia.com.br/as-novidades-do-html5/23992). Acesso em: 28 de jan. de 2023.
 
 # Como executar
 
