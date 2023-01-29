@@ -46,9 +46,10 @@ Muitos desenvolvedores Web amaram a simplicidade e o poder do jQuery, e a biblio
 
 Assista a esse vídeo no qual o professor da Escola de Informação da UMich, Charles Severance, entrevista John Resig no escritório da Khan Academy:
 
-## Referência
+## Referências
 
 - Pausa para a história: como John criou o jQuery? Khan Academy, Disponível em: [https://pt.khanacademy.org](https://pt.khanacademy.org/computing/computer-programming/html-js-jquery/jquery-dom-access/a/history-of-jquery). Acesso em: 28 de jan. de 2023.
+- jQuery Tutorial. Devmedia, Disponível em: [https://www.devmedia.com.br/](https://www.devmedia.com.br/jquery-tutorial/27299). Acesso em: 28 de jan. de 2023.
 
 
 
