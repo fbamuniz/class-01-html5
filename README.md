@@ -38,7 +38,7 @@ Existem programas profissionais para criação de páginas em html automaticamen
 
 Apesar da enorme importância para o mundo da informação o HTML estancou na versão 4.0.1 desde 1999 e não acompanhou as dinâmicas mudanças que ocorreram nos últimos anos e para atender as necessidades careceu utilizar plugins externos como o flash player e outros. Mas felizmente, isso são coisas do passado, pois a W3C (World Wide Web Consortium) e a WHATWG (Web Hypertext Application Technology Working Group) disponibilizaram uma versão de teste que provavelmente será a nova cara do HTML. Esse artigo mostra as novas características dessa versão que, inclusive, já tem suporte para algumas funcionalidades nos mais conceituados navegadores e brevemente será oficializado por definitivo como o HTML 5.
 
-# O que é HTML5
+## O que é HTML5
 
 Surgido a partir de um consórcio entre a W3C (World Wide Web Consortium) e a WHATWG (Web Hypertext Application Technology Working Group), o HTML5 será o novo padrão para a estruturação e apresentação de conteúdo na Word Wide Web trazendo melhorias significativas com novas funcionalidades de semântica e acessibilidade, além de melhorar o suporte aos mais recentes conteúdo multimídias.
 
