@@ -38,11 +38,11 @@ Abaixo, um exemplo de uma estrutura básica de página em HTML:
 </html>
 ```
 
-Existem programas profissionais para criação de páginas em HTML, como o [Visual Studio Code](https://code.visualstudio.com/) ou [Notepad++](https://notepad-plus-plus.org/downloads/). Apesar da enorme importância para o mundo da informação, o HTML estancou na versão 4.0.1 desde 1999 e não acompanhou as dinâmicas mudanças que ocorreram nos últimos anos e para atender as necessidades, careceu utilizar plugins externos como o já aposentado [Adobe Flash Player](https://pt.wikipedia.org/wiki/Adobe_Flash_Player) e outros. Mas felizmente, isso são coisas do passado, pois a [W3C](https://pt.wikipedia.org/wiki/W3C) (World Wide Web Consortium) e a [WHATWG](https://pt.wikipedia.org/wiki/WHATWG) (Web Hypertext Application Technology Working Group) disponibilizaram a versão HTML 5.
+Existem programas profissionais para criação de páginas em HTML, como o [Visual Studio Code](https://code.visualstudio.com/) ou [Notepad++](https://notepad-plus-plus.org/downloads/). Apesar da enorme importância para o mundo da informação, o HTML havia estacionado na versão 4 desde 1999 e não acompanhou as dinâmicas mudanças que ocorreram nos anos seguintes e para atender as necessidades, careceu utilizar plugins externos como o já aposentado [Adobe Flash Player](https://pt.wikipedia.org/wiki/Adobe_Flash_Player) e outros. Mas felizmente, isso são coisas do passado, pois a [W3C](https://pt.wikipedia.org/wiki/W3C) (World Wide Web Consortium) e a [WHATWG](https://pt.wikipedia.org/wiki/WHATWG) (Web Hypertext Application Technology Working Group) disponibilizaram anos depois a versão HTML5.
 
 ## O que é o HTML5
 
-O HTML5 é o novo padrão para a estruturação e apresentação de conteúdo na Word Wide Web, trazendo melhorias significativas com novas funcionalidades de semântica e acessibilidade, além de melhorar o suporte aos mais recentes conteúdo multimídias. As principais mudanças que a nova versão proporciona aos usuários são: 
+O HTML5 é o último padrão lançado para a estruturação e apresentação de conteúdo na Word Wide Web, trazendo melhorias significativas com novas funcionalidades de semântica e acessibilidade, além de melhorar o suporte aos mais recentes conteúdo multimídias. As principais mudanças que a nova versão trouxe aos usuários foram: 
 
 - Melhor tratamento de exceção
 - Mais tags para substituir scripts
@@ -51,7 +51,7 @@ O HTML5 é o novo padrão para a estruturação e apresentação de conteúdo na
 
 ## Características do HTML5
 
-As características da versão 5 estão ligadas diretamente as necessidades de suporte independente aos formatos de conteúdo multimídia da Web 2.0, as novas funcionalidades de semânticas e acessibilidade. Na sequência destacamos suas principais características:
+As características da versão HTML5 estão ligadas diretamente as necessidades de suporte independente aos formatos de conteúdo multimídia da Web 2.0, as novas funcionalidades de semânticas e acessibilidade. Na sequência destacamos suas principais características:
 
 **a) Inclusão do elemento Canvas para desenho.**
 
@@ -80,7 +80,7 @@ Inclusão de novos objetos para armazenamento de dados locais. Estes procediment
 
 **d) Inclusão de novos elementos de conteúdo específico.**
 
-Muitos elementos da versão 4 foram excluídos da versão 5, uns por nunca terem sido usados, outros por estarem obsoletos e outros por serem usados indevidamente. A versão 5 traz novos elementos para proporcionar aos usuários uma melhor estrutura, desenho e conteúdo multimídia (denominados elementos semânticos). A relação completa desses elementos será abordada durante o curso, mas abaixo segue uma prévia:
+Muitos elementos do HTML4 foram excluídos da versão HTML5, uns por nunca terem sido usados, outros por estarem obsoletos e outros por serem usados indevidamente. O HTML5 traz novos elementos para proporcionar aos usuários uma melhor estrutura, desenho e conteúdo multimídia (denominados elementos semânticos). A relação completa desses elementos será abordada durante o curso, mas abaixo segue uma prévia:
 
 ```html
 <!-- Exemplo de elementos semânticos -->
@@ -100,7 +100,7 @@ Muitos elementos da versão 4 foram excluídos da versão 5, uns por nunca terem
 
 **e) Inclusão de novos controles para formulário.**
 
-Uma carência da versão 4 era a escassa quantidade de controles para formulário, fazendo com que os desenvolvedores recorressem as famosas bibliotecas JavaScript, muitas vezes incompatíveis com determinados navegadores. Na versão 5 novos controles de formulário foram incluídos para facilitar a vida dos desenvolvedores. Um dos remanescentes da versão 4, o elemento input, ganhou novos valores para o atributo type, fazendo com que o desenvolvedor ganhe maior controle sobre a entrada de dados pelo usuário. Abaixo, uma prévia desses itens:
+Uma carência do HTML4 era a escassa quantidade de controles para formulário, fazendo com que os desenvolvedores recorressem as famosas bibliotecas JavaScript, muitas vezes incompatíveis com determinados navegadores. No HTML5 novos controles de formulário foram incluídos para facilitar a vida dos desenvolvedores. Um dos remanescentes do HTML4, o elemento input, ganhou novos valores para o atributo type, fazendo com que o desenvolvedor ganhe maior controle sobre a entrada de dados pelo usuário. Abaixo, uma prévia desses itens:
 
 ```html
 <!-- Entrada do tipo cor -->
@@ -124,7 +124,7 @@ Uma carência da versão 4 era a escassa quantidade de controles para formulári
 
 Para dar ainda mais liberdade à criatividade dos usuários, o HTML5 dá total suporte ao CSS3. Com essa integração, as páginas Web podem receber os mais variados tipos de estilos como sombra nos textos e quadros, efeitos de transição, quadro com cantos arredondados e vários recursos que o CSS3 oferece.
 
-No vídeo abaixo da Dotec, é apresentado um pequeno resumo do que é o HTML e sua aplicabilidade. 
+No vídeo abaixo da Dotec, é apresentado um pequeno resumo do que é o HTML5 e sua aplicabilidade. 
 
 [![Assista ao vídeo](https://img.youtube.com/vi/Tld2CrT5c2s/maxresdefault.jpg)](https://www.youtube.com/watch?v=Tld2CrT5c2s)
 
