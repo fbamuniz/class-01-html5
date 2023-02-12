@@ -141,7 +141,6 @@ git clone https://github.com/fbamuniz/class-01-html5.git
 
 ```
 
-# Bibliografia
 ## Bibliografia Básica 
 - MEYER, E. S. CSS - técnicas profissionais para um layout moderno. Porto Alegre: Bookman, 2011.
 - POWERS, S. Aprendendo JavaScript. São Paulo: Novatec, 2010.
