@@ -129,7 +129,7 @@ No vídeo abaixo da Dotec, é apresentado um pequeno resumo do que é o HTML e s
 - HTML. Infoescola, disponível em: [https://www.infoescola.com](https://www.infoescola.com/informatica/html/#:~:text=O%20HTML%20foi%20criado%20em,e%20compartilhar%20documentos%20com%20facilidade.). Acesso em: 28 de jan. de 2023.
 - HTML5. Devmedia, disponível em: [https://www.devmedia.com.br](https://www.devmedia.com.br/as-novidades-do-html5/23992). Acesso em: 28 de jan. de 2023.
 
-# Como executar
+## Como executar
 
 Pré-requisitos: 
 - Visual Studio Code
