@@ -10,7 +10,8 @@ O HTML foi a primeira linguagem de nível mundial, porém não é a única. Exis
 
 Hoje em dia é fundamental trabalharmos com o HTML em conjunto com outras tecnologias (que veremos mais tarde), como o Cascading Style Sheets (CSS3) e o JavaScript. Em uma analogia simples, o HTML é como se fosse a estrutura de uma casa, o CSS o acabamento e o JavaScript as funcionalidades como a porta automática da garagem ou o ventilador de teto.
 
-![Comparativo entre HTML3, CSS3 e JavaScript](https://miro.medium.com/max/640/1*q99J7XLYVWgOt69E8IuXqw.gif | width=100)
+![Comparativo entre HTML3, CSS3 e JavaScript](https://miro.medium.com/max/640/1*q99J7XLYVWgOt69E8IuXqw.gif)
+<img src="https://miro.medium.com/max/640/1*q99J7XLYVWgOt69E8IuXqw.gif" width="100px">
 
 Para criar e editar códigos em HTML é necessário qualquer editor de texto comum, como bloco de notas. Para testar os códigos, basta salvar o arquivo em formato .html e executar. Ainda é necessário ter um Web Browser (ou navegador) configurado como padrão. O interessante é que não é necessária a Internet para cirar páginas HTML, pois o arquivo com os códigos esta na máquina onde esta sendo executada.
 
