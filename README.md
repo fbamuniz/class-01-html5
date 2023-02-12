@@ -120,6 +120,9 @@ Uma carência da versão 4 era a escassa quantidade de controles para formulári
 
 Para dar ainda mais liberdade à criatividade dos usuários, o HTML5 dá total suporte ao Cascading Style Sheets, ou simplesmente CSS. Com essa integração, as páginas Web podem receber os mais variados tipos de estilos como sombra nos textos e quadros, efeitos de transição, quadro com cantos arredondados e vários recursos que o CSS3 oferece.
 
+![Comparativo entre HTML3, CSS3 e JavaScript](https://moz-static.moz.com/youmoz_uploads/javascript-seo/5948abfc0e2df5.02876591.gif)
+
+
 No vídeo abaixo da Dotec, é apresentado um pequeno resumo do que é o HTML e sua aplicabilidade. 
 
 [![Assista ao vídeo](https://img.youtube.com/vi/Tld2CrT5c2s/maxresdefault.jpg)](https://www.youtube.com/watch?v=Tld2CrT5c2s)
