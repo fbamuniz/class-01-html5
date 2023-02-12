@@ -8,6 +8,10 @@ O HTML é uma linguagem de marcação. Esta linguagem é constituída por tags (
 
 O HTML foi a primeira linguagem de nível mundial, porém não é a única. Existem muitas outras linguagens destinadas a criação de paginas para Web, porém o HTML ainda prevalece. Atualmente já é possível integrar varias linguagens na mesma página da Web, sendo possível usar duas ou mais linguagens no mesmo projeto.
 
+Hoje em dia é fundamental trabalhar com o HTML em conjunto com outras tecnologias como CSS3 e JavaScript. Em uma analogia simples, o HTML é como se fosse a estrutura de uma casa, o CSS o acabamento e o JavaScript as funcionalidades como a porta automática da garagem ou o ventilador de teto.
+
+![Comparativo entre HTML3, CSS3 e JavaScript](https://moz-static.moz.com/youmoz_uploads/javascript-seo/5948abfc0e2df5.02876591.gif)
+
 Para criar e editar códigos em HTML é necessário qualquer editor de texto comum, como bloco de notas. Para testar os códigos, basta salvar o arquivo em formato .html e executar. Ainda é necessário ter um Web Browser (ou navegador) configurado como padrão. O interessante é que não é necessária a Internet para cirar páginas HTML, pois o arquivo com os códigos esta na máquina onde esta sendo executada.
 
 Abaixo, um exemplo de uma estrutura básica de página em HTML:
@@ -119,9 +123,6 @@ Uma carência da versão 4 era a escassa quantidade de controles para formulári
 **f) Total suporte ao CSS3**
 
 Para dar ainda mais liberdade à criatividade dos usuários, o HTML5 dá total suporte ao Cascading Style Sheets, ou simplesmente CSS. Com essa integração, as páginas Web podem receber os mais variados tipos de estilos como sombra nos textos e quadros, efeitos de transição, quadro com cantos arredondados e vários recursos que o CSS3 oferece.
-
-![Comparativo entre HTML3, CSS3 e JavaScript](https://moz-static.moz.com/youmoz_uploads/javascript-seo/5948abfc0e2df5.02876591.gif)
-
 
 No vídeo abaixo da Dotec, é apresentado um pequeno resumo do que é o HTML e sua aplicabilidade. 
 
