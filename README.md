@@ -137,7 +137,7 @@ Pré-requisitos:
 
 ```bash
 # clonar repositório
-git clone https://github.com/fbamuniz/class-04-jquery3.git
+git clone https://github.com/fbamuniz/class-01-html5.git
 
 ```
 
