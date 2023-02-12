@@ -8,7 +8,7 @@ O HTML é uma linguagem de marcação. Esta linguagem é constituída por tags (
 
 O HTML foi a primeira linguagem de nível mundial, porém não é a única. Existem muitas outras linguagens destinadas a criação de paginas para Web, porém o HTML ainda prevalece. Atualmente já é possível integrar varias linguagens na mesma página da Web, sendo possível usar duas ou mais linguagens no mesmo projeto.
 
-Hoje em dia é fundamental trabalhar com o HTML em conjunto com outras tecnologias que veremos mais tarde, como o Cascading Style Sheets (CSS3) e JavaScript. Em uma analogia simples, o HTML é como se fosse a estrutura de uma casa, o CSS o acabamento e o JavaScript as funcionalidades como a porta automática da garagem ou o ventilador de teto.
+Hoje em dia é fundamental trabalharmos com o HTML em conjunto com outras tecnologias (que veremos mais tarde), como o Cascading Style Sheets (CSS3) e o JavaScript. Em uma analogia simples, o HTML é como se fosse a estrutura de uma casa, o CSS o acabamento e o JavaScript as funcionalidades como a porta automática da garagem ou o ventilador de teto.
 
 ![Comparativo entre HTML3, CSS3 e JavaScript](https://moz-static.moz.com/youmoz_uploads/javascript-seo/5948abfc0e2df5.02876591.gif)
 
