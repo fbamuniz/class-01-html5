@@ -128,6 +128,10 @@ No vídeo abaixo da Dotec, é apresentado um pequeno resumo do que é o HTML5 e 
 
 [![Assista ao vídeo](https://img.youtube.com/vi/Tld2CrT5c2s/maxresdefault.jpg)](https://www.youtube.com/watch?v=Tld2CrT5c2s)
 
+## Exercícios
+01) Neste exercício - com o título "Figuras Históricas" - você deverá inserir duas imagens de dois personagens históricos (por exemplo, Shakespeare e Machado de Assis). As imagens precisam ser necessariamente no formato WebP e PNG. Logo abaixo das imagens, insira um breve parágrafo com a biografia de ambos e, ao final do texto, um vídeo do Youtube. Tanto o vídeo quando as imagens devem possuir a mesma largura. As duas figuras históricas devem ser separadas por uma linha horizontal.  
+
+
 ## Referências
 
 - HTML. Infoescola, disponível em: [https://www.infoescola.com](https://www.infoescola.com/informatica/html/#:~:text=O%20HTML%20foi%20criado%20em,e%20compartilhar%20documentos%20com%20facilidade.). Acesso em: 28 de jan. de 2023.
