@@ -131,6 +131,8 @@ No vídeo abaixo da Dotec, é apresentado um pequeno resumo do que é o HTML5 e 
 ## Lista de exercícios
 01) Neste exercício - com o título "Figuras Históricas" - você deverá inserir duas imagens de dois personagens históricos (por exemplo, Shakespeare e Machado de Assis). As imagens precisam ser necessariamente no formato WebP e PNG. Logo abaixo das imagens, insira um breve parágrafo com a biografia de ambos e, ao final do texto, um vídeo do Youtube. Tanto o vídeo quando as imagens devem possuir a mesma largura. As duas figuras históricas devem ser separadas por uma linha horizontal.  
 
+01) Neste exercício - com o título "Figuras Históricas" - você deverá inserir duas imagens de dois personagens históricos (por exemplo, Shakespeare e Machado de Assis). As imagens precisam ser necessariamente no formato WebP e PNG. Logo abaixo das imagens, insira um breve parágrafo com a biografia de ambos e, ao final do texto, um vídeo do Youtube. Tanto o vídeo quando as imagens devem possuir a mesma largura. As duas figuras históricas devem ser separadas por uma linha horizontal.  
+
 
 ## Referências
 
